@@ -1,5 +1,7 @@
 'use client'
 
+import "./globals.css";
+
 import AuthProvider from "@/components/providers/auth-provider";
 
 export default function RootLayout({
